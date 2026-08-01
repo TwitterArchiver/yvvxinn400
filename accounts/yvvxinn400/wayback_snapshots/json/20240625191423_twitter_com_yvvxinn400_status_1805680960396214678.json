@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1805680960396214678",
+    "created_at": "2024-06-25T19:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T20:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805680960396214678"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1805680960396214678",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "初中那个长得好看的家伙问我“如果满分十分给我打几分”\n我说“肯定是十分啊，你怎么好看”\n她也觉得自己就该是十分，然后和我说“你就算了，顶天三分吧”\n我永远也忘不了我恨所有长得好看的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1805680960396214678",
+        "created_at": "2024-06-25T19:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T20:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805680960396214678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805680960396214678",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初中那个长得好看的家伙问我“如果满分十分给我打几分”\n我说“肯定是十分啊，你怎么好看”\n她也觉得自己就该是十分，然后和我说“你就算了，顶天三分吧”\n我永远也忘不了我恨所有长得好看的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4583,
+          "following_count": 141,
+          "like_count": 7475,
+          "listed_count": 15,
+          "tweet_count": 7597
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

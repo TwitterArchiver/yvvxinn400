@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1990031343804469505",
+    "created_at": "2025-11-16T14:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T15:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990057622586966426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1707001814430990336",
+          "start": 0,
+          "username": "BXZCSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990057622586966426",
+    "in_reply_to_user_id": "1707001814430990336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990034578032202234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BXZCSL 没办法离开，，我现在为了毕业证在实习中，其实我更恐惧每一天的实习生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1990031343804469505",
+        "created_at": "2025-11-16T14:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990057622586966426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1707001814430990336",
+              "start": 0,
+              "username": "BXZCSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990057622586966426",
+        "in_reply_to_user_id": "1707001814430990336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990034578032202234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BXZCSL 没办法离开，，我现在为了毕业证在实习中，其实我更恐惧每一天的实习生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707001814430990336",
+        "conversation_id": "1990031343804469505",
+        "created_at": "2025-11-16T12:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990034578032202234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990034578032202234",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990031343804469505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 可不可以离开家，自己租房子，自己租房住，真的会好很多，离开这个家吧，减少回家的次数"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 32,
+          "like_count": 6630,
+          "listed_count": 6,
+          "media_count": 110,
+          "tweet_count": 8442
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T11:59:09.000Z",
+        "description": "一个被遗忘的生物",
+        "id": "1707001814430990336",
+        "name": "泪滴滴",
+        "pinned_tweet_id": "1847995761583386668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803490178000187392/bE3C3SLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4551,
+          "following_count": 161,
+          "like_count": 1679,
+          "listed_count": 12,
+          "media_count": 58,
+          "tweet_count": 558
+        },
+        "username": "BXZCSL",
+        "verified": false
+      }
+    ]
+  }
+}

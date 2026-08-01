@@ -1,0 +1,149 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1807064100490420224"
+      ]
+    },
+    "author_id": "1674060381432561666",
+    "conversation_id": "1807064130488004733",
+    "created_at": "2024-06-29T14:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T15:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1807064130488004733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/7uU024tiXF",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yvvxinn400/status/1807064130488004733/video/1",
+          "media_key": "7_1807064100490420224",
+          "start": 12,
+          "url": "https://t.co/7uU024tiXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807064130488004733",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看看今天我摸到的狗狗呀 https://t.co/7uU024tiXF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7861,
+        "height": 720,
+        "media_key": "7_1807064100490420224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1807064100490420224/pu/img/bF5leL6ZwsF00dea.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807064100490420224/pu/vid/avc1/320x320/uZAorS_gHfw4tC2x.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807064100490420224/pu/vid/avc1/540x540/Wf6hwteHckuRevv1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807064100490420224/pu/vid/avc1/720x720/8_fe8nmxZSGxJH0I.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1807064100490420224/pu/pl/lVOke474SGMp19iO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807064100490420224"
+          ]
+        },
+        "author_id": "1674060381432561666",
+        "conversation_id": "1807064130488004733",
+        "created_at": "2024-06-29T14:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T15:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807064130488004733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7uU024tiXF",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yvvxinn400/status/1807064130488004733/video/1",
+              "media_key": "7_1807064100490420224",
+              "start": 12,
+              "url": "https://t.co/7uU024tiXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807064130488004733",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看今天我摸到的狗狗呀 https://t.co/7uU024tiXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4647,
+          "following_count": 144,
+          "like_count": 7540,
+          "listed_count": 15,
+          "tweet_count": 7713
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

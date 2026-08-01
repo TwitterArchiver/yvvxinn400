@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1805182426584322281",
+    "created_at": "2024-06-24T10:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T11:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805182426584322281"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1805182426584322281",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⌓‿⌓没考试前和成绩出来前天天质问学了吗考的好吗成绩出来了吗？成绩出来好几天了才想起来问过没过关，其实爸妈你们根本不在意我成绩怎么样有没有过关吧，只是想借机发挥一下作为父母的权利而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1805182426584322281",
+        "created_at": "2024-06-24T10:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T11:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805182426584322281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805182426584322281",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⌓‿⌓没考试前和成绩出来前天天质问学了吗考的好吗成绩出来了吗？成绩出来好几天了才想起来问过没过关，其实爸妈你们根本不在意我成绩怎么样有没有过关吧，只是想借机发挥一下作为父母的权利而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4561,
+          "following_count": 139,
+          "like_count": 7447,
+          "listed_count": 13,
+          "tweet_count": 7521
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

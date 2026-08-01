@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "2048875630264238310",
+    "created_at": "2026-04-28T14:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049130733248336266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1769795169170132992",
+          "start": 0,
+          "username": "Taco1918"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049130733248336266",
+    "in_reply_to_user_id": "1769795169170132992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049100943401062448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taco1918 逃班成功了非常开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "2048875630264238310",
+        "created_at": "2026-04-28T14:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049130733248336266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1769795169170132992",
+              "start": 0,
+              "username": "Taco1918"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049130733248336266",
+        "in_reply_to_user_id": "1769795169170132992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049100943401062448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taco1918 逃班成功了非常开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769795169170132992",
+        "conversation_id": "2048875630264238310",
+        "created_at": "2026-04-28T12:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049100943401062448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049100943401062448",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048875630264238310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 顺顺利利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4235,
+          "following_count": 31,
+          "like_count": 6398,
+          "listed_count": 5,
+          "media_count": 112,
+          "tweet_count": 8495
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T18:37:16.000Z",
+        "description": "🇬🇧一个不高尚，未脱离低级趣味的人",
+        "id": "1769795169170132992",
+        "name": "小野",
+        "pinned_tweet_id": "1814306222256140601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903587818644910080/Ui3c_TS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 295,
+          "like_count": 310,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 279
+        },
+        "username": "Taco1918",
+        "verified": false
+      }
+    ]
+  }
+}

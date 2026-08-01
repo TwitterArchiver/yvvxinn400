@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1972662758958117102",
+    "created_at": "2025-09-30T09:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T10:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972954789907767514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "902534701042221056",
+          "start": 0,
+          "username": "eoeo89_0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972954789907767514",
+    "in_reply_to_user_id": "902534701042221056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972696202849534182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eoeo89_0130 好累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1972662758958117102",
+        "created_at": "2025-09-30T09:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T10:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972954789907767514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "902534701042221056",
+              "start": 0,
+              "username": "eoeo89_0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972954789907767514",
+        "in_reply_to_user_id": "902534701042221056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972696202849534182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eoeo89_0130 好累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "902534701042221056",
+        "conversation_id": "1972662758958117102",
+        "created_at": "2025-09-29T16:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T17:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972696202849534182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972696202849534182",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972662758958117102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4469,
+          "following_count": 31,
+          "like_count": 6659,
+          "listed_count": 6,
+          "media_count": 110,
+          "tweet_count": 8350
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-29T14:13:35.000Z",
+        "description": "ᶻ 𝗓 𐰁",
+        "id": "902534701042221056",
+        "name": "我真没力气做别的事了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857829535657652224/tEBKFqnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 59,
+          "like_count": 7774,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 516
+        },
+        "username": "eoeo89_0130",
+        "verified": false
+      }
+    ]
+  }
+}

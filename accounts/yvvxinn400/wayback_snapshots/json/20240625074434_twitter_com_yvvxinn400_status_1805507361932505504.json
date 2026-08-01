@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1805507361932505504",
+    "created_at": "2024-06-25T07:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T08:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805507361932505504"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1805507361932505504",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的人生变成这样没有人可以说自己没责任，但是我永远也不能找他们赔偿，只能告诉自己是你意志力太差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1805507361932505504",
+        "created_at": "2024-06-25T07:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T08:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805507361932505504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805507361932505504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的人生变成这样没有人可以说自己没责任，但是我永远也不能找他们赔偿，只能告诉自己是你意志力太差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4562,
+          "following_count": 141,
+          "like_count": 7464,
+          "listed_count": 14,
+          "tweet_count": 7564
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

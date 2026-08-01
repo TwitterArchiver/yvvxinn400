@@ -1,0 +1,245 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1802375342184943616"
+      ],
+      "media_source_tweet_id": [
+        "1802375510636572866"
+      ]
+    },
+    "author_id": "1674060381432561666",
+    "conversation_id": "1802980128944767472",
+    "created_at": "2024-06-18T08:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T09:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802980128944767472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551615370535919616",
+          "start": 3,
+          "username": "zazanb666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/a12raleUUd",
+          "end": 38,
+          "expanded_url": "https://twitter.com/zazanb666/status/1802375510636572866/video/1",
+          "media_key": "7_1802375342184943616",
+          "start": 15,
+          "url": "https://t.co/a12raleUUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802980128944767472",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802375510636572866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zazanb666: https://t.co/a12raleUUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16900,
+        "height": 1280,
+        "media_key": "7_1802375342184943616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1802375342184943616/pu/img/qe4sMueOfABZuW4b.jpg",
+        "public_metrics": {
+          "view_count": 648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802375342184943616/pu/vid/avc1/320x626/OS0zC5w6pp8ZKRhb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802375342184943616/pu/vid/avc1/480x938/jOQH-My4G6rYYmjh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802375342184943616/pu/vid/avc1/654x1280/fkyTAHJuXi5ZXbkN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1802375342184943616/pu/pl/LZfCsaN2afcJ6ah-.m3u8?tag=12"
+          }
+        ],
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802375342184943616"
+          ],
+          "media_source_tweet_id": [
+            "1802375510636572866"
+          ]
+        },
+        "author_id": "1674060381432561666",
+        "conversation_id": "1802980128944767472",
+        "created_at": "2024-06-18T08:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T09:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802980128944767472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551615370535919616",
+              "start": 3,
+              "username": "zazanb666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/a12raleUUd",
+              "end": 38,
+              "expanded_url": "https://twitter.com/zazanb666/status/1802375510636572866/video/1",
+              "media_key": "7_1802375342184943616",
+              "start": 15,
+              "url": "https://t.co/a12raleUUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802980128944767472",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802375510636572866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zazanb666: https://t.co/a12raleUUd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802375342184943616"
+          ]
+        },
+        "author_id": "1551615370535919616",
+        "conversation_id": "1802375510636572866",
+        "created_at": "2024-06-16T16:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T17:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802375510636572866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/a12raleUUd",
+              "end": 23,
+              "expanded_url": "https://twitter.com/zazanb666/status/1802375510636572866/video/1",
+              "media_key": "7_1802375342184943616",
+              "start": 0,
+              "url": "https://t.co/a12raleUUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802375510636572866",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1648,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a12raleUUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4513,
+          "following_count": 142,
+          "like_count": 7380,
+          "listed_count": 13,
+          "tweet_count": 7346
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T17:08:35.000Z",
+        "description": "我是杂杂",
+        "id": "1551615370535919616",
+        "location": "杂杂星",
+        "name": "杂杂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741588726604566528/ZvYnCc4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 472,
+          "like_count": 320,
+          "listed_count": 4,
+          "tweet_count": 11889
+        },
+        "username": "zazanb666",
+        "verified": false
+      }
+    ]
+  }
+}

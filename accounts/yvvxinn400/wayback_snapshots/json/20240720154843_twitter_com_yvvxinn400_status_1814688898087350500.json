@@ -1,0 +1,232 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1814672290229203237",
+    "created_at": "2024-07-20T15:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T16:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814688898087350500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224274235561926659",
+          "start": 0,
+          "username": "AmamizuRei0"
+        },
+        {
+          "end": 27,
+          "id": "1585840937242075139",
+          "start": 13,
+          "username": "loveshibainu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814688898087350500",
+    "in_reply_to_user_id": "1224274235561926659",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814680193359093847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmamizuRei0 @loveshibainu_ 因为真丑😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1814672290229203237",
+        "created_at": "2024-07-20T15:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T16:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814688898087350500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224274235561926659",
+              "start": 0,
+              "username": "AmamizuRei0"
+            },
+            {
+              "end": 27,
+              "id": "1585840937242075139",
+              "start": 13,
+              "username": "loveshibainu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814688898087350500",
+        "in_reply_to_user_id": "1224274235561926659",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814680193359093847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmamizuRei0 @loveshibainu_ 因为真丑😎"
+      },
+      {
+        "attachments": {},
+        "author_id": "1224274235561926659",
+        "conversation_id": "1814672290229203237",
+        "created_at": "2024-07-20T15:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T16:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814680193359093847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            },
+            {
+              "end": 26,
+              "id": "1585840937242075139",
+              "start": 12,
+              "username": "loveshibainu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814680193359093847",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814679676431827156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 @loveshibainu_ 所以你们两个这么好看，怎么经常颜值焦虑(╯‵□′)╯︵┻━┻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4697,
+          "following_count": 142,
+          "like_count": 7502,
+          "listed_count": 15,
+          "tweet_count": 7906
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-03T10:11:59.000Z",
+        "description": "实际上是一只经常会饿的野猪精 | 男的 | 没脑子的精神病",
+        "id": "1224274235561926659",
+        "location": "橘子树上",
+        "name": "橘子猫天水🍊",
+        "pinned_tweet_id": "1799291223657881758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720746628070744064/hDWjf5uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426,
+          "following_count": 1279,
+          "like_count": 115624,
+          "listed_count": 9,
+          "tweet_count": 16772
+        },
+        "username": "AmamizuRei0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T03:48:47.000Z",
+        "description": "無言フォロー失礼します",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lia_i_lin?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lia_i_lin?igsh=MWs2ZHN6MmYxOGV5ZA==",
+                "start": 0,
+                "url": "https://t.co/nUbGiXOrVI"
+              }
+            ]
+          }
+        },
+        "id": "1585840937242075139",
+        "location": "柴犬星球",
+        "name": "柴犬共和国主席",
+        "pinned_tweet_id": "1809891229620109443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684176065420476418/gLRw1Phv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 410,
+          "like_count": 30753,
+          "listed_count": 0,
+          "tweet_count": 11105
+        },
+        "url": "https://t.co/nUbGiXOrVI",
+        "username": "loveshibainu_",
+        "verified": false
+      }
+    ]
+  }
+}

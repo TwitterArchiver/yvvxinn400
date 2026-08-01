@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1806724701659521070",
+    "created_at": "2024-06-29T14:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T15:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807061257876336656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532754128236990465",
+          "start": 0,
+          "username": "Remipills"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807061257876336656",
+    "in_reply_to_user_id": "1532754128236990465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807060138177757381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remipills 哪怕已经知道被中式洗脑了也控制不了，我非常清楚很多都不是我的错但是根本控制不了，打心底觉得我对不起他们我很爱他们，那些事都是代沟都是他们不合适的爱我的表现，，哪怕现在打字我内心也是这么认为，，，感觉真的完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1806724701659521070",
+        "created_at": "2024-06-29T14:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T15:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807061257876336656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532754128236990465",
+              "start": 0,
+              "username": "Remipills"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807061257876336656",
+        "in_reply_to_user_id": "1532754128236990465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807060138177757381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remipills 哪怕已经知道被中式洗脑了也控制不了，我非常清楚很多都不是我的错但是根本控制不了，打心底觉得我对不起他们我很爱他们，那些事都是代沟都是他们不合适的爱我的表现，，哪怕现在打字我内心也是这么认为，，，感觉真的完蛋了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1532754128236990465",
+        "conversation_id": "1806724701659521070",
+        "created_at": "2024-06-29T14:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T15:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807060138177757381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807060138177757381",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807059705681911917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 所以说很恐怖啊，我有个朋友也是一直待在家里就慢慢被家里洗脑了。千万别这样😭如果实在不行的话要不要搬出去住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4647,
+          "following_count": 144,
+          "like_count": 7540,
+          "listed_count": 15,
+          "tweet_count": 7711
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T16:01:12.000Z",
+        "description": "我是 南烛 /I am Remi丨shtwt丨⚠️gore  血腥圖像⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn5.tcity.cc/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cn5.tcity.cc/#/register?code=Tr3p6YXz",
+                "start": 0,
+                "url": "https://t.co/qHSRqClvy9"
+              }
+            ]
+          }
+        },
+        "id": "1532754128236990465",
+        "location": "自用vpn免费试用👇",
+        "name": "R❄️",
+        "pinned_tweet_id": "1806203933125177370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772269446482231296/Dif5VnoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5280,
+          "following_count": 157,
+          "like_count": 45259,
+          "listed_count": 17,
+          "tweet_count": 20848
+        },
+        "url": "https://t.co/qHSRqClvy9",
+        "username": "Remipills",
+        "verified": false
+      }
+    ]
+  }
+}

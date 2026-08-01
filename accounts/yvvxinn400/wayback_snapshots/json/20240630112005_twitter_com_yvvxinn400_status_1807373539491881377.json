@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1807373539491881377",
+    "created_at": "2024-06-30T11:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T12:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1807373539491881377"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1807373539491881377",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被姨妈突袭了好难受，和药效混在一起更难受了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1807373539491881377",
+        "created_at": "2024-06-30T11:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T12:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807373539491881377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807373539491881377",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被姨妈突袭了好难受，和药效混在一起更难受了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4648,
+          "following_count": 145,
+          "like_count": 7545,
+          "listed_count": 15,
+          "tweet_count": 7751
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1803758110055809151",
+    "created_at": "2024-06-20T11:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T12:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803759591345516731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1515920862205001732",
+          "start": 0,
+          "username": "qwq1140460107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803759591345516731",
+    "in_reply_to_user_id": "1515920862205001732",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803759367340064833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq1140460107 我也是啊，但是这次的删不了，大学还是同一批人，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1803758110055809151",
+        "created_at": "2024-06-20T11:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T12:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803759591345516731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1515920862205001732",
+              "start": 0,
+              "username": "qwq1140460107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803759591345516731",
+        "in_reply_to_user_id": "1515920862205001732",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803759367340064833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq1140460107 我也是啊，但是这次的删不了，大学还是同一批人，"
+      },
+      {
+        "attachments": {},
+        "author_id": "1515920862205001732",
+        "conversation_id": "1803758110055809151",
+        "created_at": "2024-06-20T11:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T12:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803759367340064833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803759367340064833",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803758110055809151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 我毕业就全删了，看着他们好烦，当时还在班上孤立我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4542,
+          "following_count": 140,
+          "like_count": 7417,
+          "listed_count": 13,
+          "tweet_count": 7412
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T05:11:56.000Z",
+        "description": "I really want to find and die in an empty corner, preferably before I am thirty.",
+        "id": "1515920862205001732",
+        "name": "玖枙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802652296850907136/4QX7Cao7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 94,
+          "listed_count": 0,
+          "tweet_count": 52
+        },
+        "username": "qwq1140460107",
+        "verified": false
+      }
+    ]
+  }
+}

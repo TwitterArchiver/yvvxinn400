@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1805645931976475048",
+    "created_at": "2024-06-25T16:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T17:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805645931976475048"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1805645931976475048",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的性格是糟糕的\n我的外貌是糟糕的\n我的余额是糟糕的\n我的人生是糟糕的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1805645931976475048",
+        "created_at": "2024-06-25T16:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T17:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805645931976475048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805645931976475048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的性格是糟糕的\n我的外貌是糟糕的\n我的余额是糟糕的\n我的人生是糟糕的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4578,
+          "following_count": 141,
+          "like_count": 7468,
+          "listed_count": 15,
+          "tweet_count": 7580
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

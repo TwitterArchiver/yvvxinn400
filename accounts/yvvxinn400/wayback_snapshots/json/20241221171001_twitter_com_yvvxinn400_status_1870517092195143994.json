@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1870517092195143994",
+    "created_at": "2024-12-21T17:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T18:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870517092195143994"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1870517092195143994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手腕扭了四天好不起来，两个耳洞肿了三天消炎药没有用一碰就痛周围肿一圈，感冒没好几天又开始流鼻涕咳嗽现在牙齿也不行了😂😂😂😂😂研究半天看出来是牙根的脓肿，鼓个大脓包脸也肿了排不出来😁😁😁😁随便哈反正没钱治，一嘴烂牙大虫洞就是他们没一个愿意花钱让我看牙医的结果👍已料到会有这样一天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1870517092195143994",
+        "created_at": "2024-12-21T17:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T18:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870517092195143994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870517092195143994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手腕扭了四天好不起来，两个耳洞肿了三天消炎药没有用一碰就痛周围肿一圈，感冒没好几天又开始流鼻涕咳嗽现在牙齿也不行了😂😂😂😂😂研究半天看出来是牙根的脓肿，鼓个大脓包脸也肿了排不出来😁😁😁😁随便哈反正没钱治，一嘴烂牙大虫洞就是他们没一个愿意花钱让我看牙医的结果👍已料到会有这样一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4719,
+          "following_count": 35,
+          "like_count": 7350,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 8273
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

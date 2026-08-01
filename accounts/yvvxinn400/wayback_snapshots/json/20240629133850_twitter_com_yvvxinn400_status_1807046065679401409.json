@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1807046065679401409",
+    "created_at": "2024-06-29T13:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T14:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1807046065679401409"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1807046065679401409",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "东西明明很好吃的不吃就算了骂我干什么，本来就不敢打包，已经骗人说才三十几块钱，东西扒来扒去一直问我钱哪里来的浪费钱家里没钱买了谁吃这么难吃的东西，，不想吃我自己吃又要说我自私护食，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1807046065679401409",
+        "created_at": "2024-06-29T13:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T14:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807046065679401409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807046065679401409",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东西明明很好吃的不吃就算了骂我干什么，本来就不敢打包，已经骗人说才三十几块钱，东西扒来扒去一直问我钱哪里来的浪费钱家里没钱买了谁吃这么难吃的东西，，不想吃我自己吃又要说我自私护食，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4643,
+          "following_count": 144,
+          "like_count": 7540,
+          "listed_count": 15,
+          "tweet_count": 7701
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

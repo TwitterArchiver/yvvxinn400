@@ -1,0 +1,146 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1803021858713072107",
+    "created_at": "2024-06-18T11:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T12:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803023439361372321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1659990853929271297",
+          "start": 0,
+          "username": "Neko8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803023439361372321",
+    "in_reply_to_user_id": "1659990853929271297",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803021858713072107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neko8964 萌萌寶寶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1803021858713072107].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1803021858713072107",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1803021858713072107"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1803021858713072107",
+        "created_at": "2024-06-18T11:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T12:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803023439361372321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1659990853929271297",
+              "start": 0,
+              "username": "Neko8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803023439361372321",
+        "in_reply_to_user_id": "1659990853929271297",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803021858713072107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neko8964 萌萌寶寶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4505,
+          "following_count": 142,
+          "like_count": 7392,
+          "listed_count": 13,
+          "tweet_count": 7368
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T18:34:41.000Z",
+        "description": "Whiskey sore in your breath.",
+        "id": "1659990853929271297",
+        "name": "Coffeebaby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791124135390904320/eJV-3Nk1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 38,
+          "like_count": 180,
+          "listed_count": 0,
+          "tweet_count": 139
+        },
+        "username": "Neko8964",
+        "verified": false
+      }
+    ]
+  }
+}

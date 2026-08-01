@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2072121306934648832"
+      ]
+    },
+    "author_id": "1674060381432561666",
+    "conversation_id": "2072121356435743026",
+    "created_at": "2026-07-01T00:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T01:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072121356435743026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6e6jDjxPOy",
+          "end": 32,
+          "expanded_url": "https://x.com/yvvxinn400/status/2072121356435743026/video/1",
+          "media_key": "7_2072121306934648832",
+          "start": 9,
+          "url": "https://t.co/6e6jDjxPOy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072121356435743026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个到底出自哪里 https://t.co/6e6jDjxPOy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27072,
+        "height": 720,
+        "media_key": "7_2072121306934648832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072121306934648832/pu/img/1qPfovdUVfsJ35hz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072121306934648832/pu/vid/avc1/360x270/gvNqBQdu7yT4rnCq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072121306934648832/pu/vid/avc1/480x360/NmTbBw-iI6LVMv24.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072121306934648832/pu/vid/avc1/960x720/C8YQZcURKuSnI6yt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072121306934648832/pu/pl/ad6zliCAvBa4-6Rp.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072121306934648832"
+          ]
+        },
+        "author_id": "1674060381432561666",
+        "conversation_id": "2072121356435743026",
+        "created_at": "2026-07-01T00:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072121356435743026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6e6jDjxPOy",
+              "end": 32,
+              "expanded_url": "https://x.com/yvvxinn400/status/2072121356435743026/video/1",
+              "media_key": "7_2072121306934648832",
+              "start": 9,
+              "url": "https://t.co/6e6jDjxPOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072121356435743026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个到底出自哪里 https://t.co/6e6jDjxPOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4204,
+          "following_count": 34,
+          "like_count": 6399,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 8606
+        },
+        "url": "",
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

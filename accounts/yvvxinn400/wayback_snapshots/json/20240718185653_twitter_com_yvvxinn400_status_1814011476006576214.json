@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1813968174519570700",
+    "created_at": "2024-07-18T18:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T19:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814011476006576214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769883546225922048",
+          "start": 0,
+          "username": "kawaii33__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814011476006576214",
+    "in_reply_to_user_id": "1769883546225922048",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813971119793397988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaii33__ 这还只是一半，想把头砍下来不想洗了，前天还没这么多😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1813968174519570700",
+        "created_at": "2024-07-18T18:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T19:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814011476006576214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769883546225922048",
+              "start": 0,
+              "username": "kawaii33__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814011476006576214",
+        "in_reply_to_user_id": "1769883546225922048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813971119793397988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii33__ 这还只是一半，想把头砍下来不想洗了，前天还没这么多😔"
+      },
+      {
+        "attachments": {},
+        "author_id": "1769883546225922048",
+        "conversation_id": "1813968174519570700",
+        "created_at": "2024-07-18T16:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T17:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813971119793397988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813971119793397988",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813968174519570700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4706,
+          "following_count": 142,
+          "like_count": 7497,
+          "listed_count": 15,
+          "tweet_count": 7890
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T00:28:27.000Z",
+        "description": "行吧@xc33__\n🚪25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "xc33__"
+              }
+            ]
+          }
+        },
+        "id": "1769883546225922048",
+        "location": "精神病院",
+        "name": "きり",
+        "pinned_tweet_id": "1792542200968167592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792976014521286656/JszGit8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 28,
+          "like_count": 644,
+          "listed_count": 0,
+          "tweet_count": 191
+        },
+        "username": "kawaii33__",
+        "verified": false
+      }
+    ]
+  }
+}

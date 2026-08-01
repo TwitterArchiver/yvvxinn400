@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1805993993043337640",
+    "created_at": "2024-06-26T16:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T17:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806003249503408291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2912099796",
+          "start": 0,
+          "username": "korosiyaoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806003249503408291",
+    "in_reply_to_user_id": "2912099796",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805996864795541850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@korosiyaoo 其他人看我什么感觉和我一点关系都没有，其他人对自己有多焦虑也和我一点关系也没有，这影响不了我对自己外貌的审判，比我丑的人那么多那我就要不焦虑吗?不可能的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1805993993043337640",
+        "created_at": "2024-06-26T16:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T17:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806003249503408291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2912099796",
+              "start": 0,
+              "username": "korosiyaoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806003249503408291",
+        "in_reply_to_user_id": "2912099796",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805996864795541850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@korosiyaoo 其他人看我什么感觉和我一点关系都没有，其他人对自己有多焦虑也和我一点关系也没有，这影响不了我对自己外貌的审判，比我丑的人那么多那我就要不焦虑吗?不可能的"
+      },
+      {
+        "attachments": {},
+        "author_id": "2912099796",
+        "conversation_id": "1805993993043337640",
+        "created_at": "2024-06-26T16:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T17:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805996864795541850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805996864795541850",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805995160234344743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 那我可能得把自己扔垃圾桶裡了（苦笑\n除了像我這種連Photoshop 都不會用的古董玩意兒以外，其他人放照片多少都是會修的\n其實類似你我這種有一定自卑心態的人很奇妙，看見自己都像是透過哈哈鏡，覺得自己醜陋不堪\n但是在外人看來卻不一定是這樣\n而我也相信你不是這樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4584,
+          "following_count": 141,
+          "like_count": 7490,
+          "listed_count": 15,
+          "tweet_count": 7633
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-27T19:06:56.000Z",
+        "description": "日常自言自語\n紀錄自我生活的軌跡\n沒事會到處亂晃給人留言",
+        "id": "2912099796",
+        "name": "在風中凌亂的哥布林騎士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1468088601372422144/eZsaCY4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 22,
+          "like_count": 152,
+          "listed_count": 0,
+          "tweet_count": 627
+        },
+        "username": "korosiyaoo",
+        "verified": false
+      }
+    ]
+  }
+}

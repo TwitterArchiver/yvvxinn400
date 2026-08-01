@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1814624434688303232",
+    "created_at": "2024-07-20T14:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T15:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814674847542202835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712075652990689280",
+          "start": 0,
+          "username": "Mukiryoku_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814674847542202835",
+    "in_reply_to_user_id": "1712075652990689280",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814671407361425440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mukiryoku_oO 我家还有吃了一次的肉丢冷冻，几个月了拿出来，连我爸都受不了这种😂吃家里饭每次都肚子疼我妈还说我有病"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1814671407361425440].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1814671407361425440",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1814671407361425440"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1814624434688303232",
+        "created_at": "2024-07-20T14:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T15:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814674847542202835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712075652990689280",
+              "start": 0,
+              "username": "Mukiryoku_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814674847542202835",
+        "in_reply_to_user_id": "1712075652990689280",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814671407361425440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mukiryoku_oO 我家还有吃了一次的肉丢冷冻，几个月了拿出来，连我爸都受不了这种😂吃家里饭每次都肚子疼我妈还说我有病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4697,
+          "following_count": 142,
+          "like_count": 7499,
+          "listed_count": 15,
+          "tweet_count": 7902
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T12:00:34.000Z",
+        "description": "can't describe anything",
+        "id": "1712075652990689280",
+        "location": "你会看到我.",
+        "name": "想休息",
+        "pinned_tweet_id": "1802946047393636409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767979714063605760/80flg4AO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 54,
+          "like_count": 4204,
+          "listed_count": 1,
+          "tweet_count": 2424
+        },
+        "username": "Mukiryoku_oO",
+        "verified": false
+      }
+    ]
+  }
+}

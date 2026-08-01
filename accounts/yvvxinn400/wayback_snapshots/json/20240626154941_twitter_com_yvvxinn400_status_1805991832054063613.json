@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1805988789610824015",
+    "created_at": "2024-06-26T15:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T16:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805991832054063613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1640801817142624257",
+          "start": 0,
+          "username": "caicai4_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805991832054063613",
+    "in_reply_to_user_id": "1640801817142624257",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805991451308015998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caicai4_0 右美好贵还没地方买😭👉愈美一盒才个位数"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1805988789610824015",
+        "created_at": "2024-06-26T15:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T16:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805991832054063613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1640801817142624257",
+              "start": 0,
+              "username": "caicai4_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805991832054063613",
+        "in_reply_to_user_id": "1640801817142624257",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805991451308015998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caicai4_0 右美好贵还没地方买😭👉愈美一盒才个位数"
+      },
+      {
+        "attachments": {},
+        "author_id": "1640801817142624257",
+        "conversation_id": "1805988789610824015",
+        "created_at": "2024-06-26T15:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T16:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805991451308015998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805991451308015998",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805991254217412766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 愚昧有甘油啊没办法不吐🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4585,
+          "following_count": 141,
+          "like_count": 7490,
+          "listed_count": 15,
+          "tweet_count": 7628
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T19:43:33.000Z",
+        "description": "我是一具尸体 小号@caicai5_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "caicai5_0"
+              }
+            ]
+          }
+        },
+        "id": "1640801817142624257",
+        "name": "菜菜4.0",
+        "pinned_tweet_id": "1707585740790501740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644893260362711040/JFGmDGaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 210,
+          "like_count": 1117,
+          "listed_count": 9,
+          "tweet_count": 1466
+        },
+        "username": "caicai4_0",
+        "verified": false
+      }
+    ]
+  }
+}

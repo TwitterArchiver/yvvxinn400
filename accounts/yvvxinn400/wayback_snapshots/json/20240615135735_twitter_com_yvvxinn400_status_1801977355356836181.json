@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1801962825524576690",
+    "created_at": "2024-06-15T13:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T14:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801977355356836181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786812512916344832",
+          "start": 0,
+          "username": "mana1973475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801977355356836181",
+    "in_reply_to_user_id": "1786812512916344832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801974083669856530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mana1973475 因为我出门扔垃圾都要报备?能寄快递的菜市场就在家门口五十米左右，旁边人看见就能转头告诉我妈😓并不是酒精依赖这点很清楚，因为我只是很喜欢微醺的感觉，所以也有在看视频了解，希望的也是以后有自己房子的话给自己搞一个小酒柜，平时想喝可以自己调一杯，现在确实都是偷偷来我也没钱去酒吧什么的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1801962825524576690",
+        "created_at": "2024-06-15T13:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T14:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801977355356836181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786812512916344832",
+              "start": 0,
+              "username": "mana1973475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801977355356836181",
+        "in_reply_to_user_id": "1786812512916344832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801974083669856530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mana1973475 因为我出门扔垃圾都要报备?能寄快递的菜市场就在家门口五十米左右，旁边人看见就能转头告诉我妈😓并不是酒精依赖这点很清楚，因为我只是很喜欢微醺的感觉，所以也有在看视频了解，希望的也是以后有自己房子的话给自己搞一个小酒柜，平时想喝可以自己调一杯，现在确实都是偷偷来我也没钱去酒吧什么的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1786812512916344832",
+        "conversation_id": "1801962825524576690",
+        "created_at": "2024-06-15T13:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T14:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801974083669856530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801974083669856530",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801970462416621953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 这不都出门邮寄到离家来回半个多钟头左右菜鸟或者丰巢点三四根烟就能回家前一下喝完？如果不能且爱喝果味的，那你就不是酒精依赖也不是太爱喝酒，我之前的话就都对你无用抱歉打扰了，不过也推荐多多尝试，喜欢喝调酒以后钱多话试试当地调酒吧多学些酒文化也更好入门去品味酒精，我因酒史和口味不爱调酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4291,
+          "following_count": 140,
+          "like_count": 7441,
+          "listed_count": 13,
+          "tweet_count": 7224
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T17:38:08.000Z",
+        "description": "我的自留地與樹洞",
+        "id": "1786812512916344832",
+        "name": "mana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800093742902484992/lJhz0RYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 21,
+          "like_count": 45,
+          "listed_count": 0,
+          "tweet_count": 143
+        },
+        "username": "mana1973475",
+        "verified": false
+      }
+    ]
+  }
+}

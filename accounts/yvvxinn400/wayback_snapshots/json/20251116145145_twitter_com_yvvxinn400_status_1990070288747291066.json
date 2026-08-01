@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1990031343804469505",
+    "created_at": "2025-11-16T14:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T15:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990070288747291066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1707001814430990336",
+          "start": 0,
+          "username": "BXZCSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990070288747291066",
+    "in_reply_to_user_id": "1707001814430990336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990059456949092706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BXZCSL 是这样，我好想要有工资的日子，现在五百块活一个多月但是家里不知道什么情况我根本没办法开口要钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1990031343804469505",
+        "created_at": "2025-11-16T14:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990070288747291066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1707001814430990336",
+              "start": 0,
+              "username": "BXZCSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990070288747291066",
+        "in_reply_to_user_id": "1707001814430990336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990059456949092706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BXZCSL 是这样，我好想要有工资的日子，现在五百块活一个多月但是家里不知道什么情况我根本没办法开口要钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707001814430990336",
+        "conversation_id": "1990031343804469505",
+        "created_at": "2025-11-16T14:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990059456949092706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990059456949092706",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990057622586966426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 唉，毕业后上班有工资了，就算生活质量再差出去住也比在家好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 32,
+          "like_count": 6630,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 8445
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T11:59:09.000Z",
+        "description": "一个被遗忘的生物",
+        "id": "1707001814430990336",
+        "name": "泪滴滴",
+        "pinned_tweet_id": "1847995761583386668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803490178000187392/bE3C3SLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4550,
+          "following_count": 161,
+          "like_count": 1679,
+          "listed_count": 12,
+          "media_count": 58,
+          "tweet_count": 559
+        },
+        "username": "BXZCSL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1805506271447322898",
+    "created_at": "2024-06-25T07:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T08:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805506271447322898"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1805506271447322898",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以呢，不放过我有什么好处吗？口口声声为了我好我没有感受到，只知道你们每一句都在话里话外的编造一些根本不是我本意的东西来体现你们是一个多么为孩子着想的家长，每一句话都在让我更加崩溃，然后我崩溃了生气了开始控制不住脾气的提高声音，你们又用一种无奈的眼神看着我，好像我很不懂事一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1805506271447322898",
+        "created_at": "2024-06-25T07:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T08:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805506271447322898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805506271447322898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以呢，不放过我有什么好处吗？口口声声为了我好我没有感受到，只知道你们每一句都在话里话外的编造一些根本不是我本意的东西来体现你们是一个多么为孩子着想的家长，每一句话都在让我更加崩溃，然后我崩溃了生气了开始控制不住脾气的提高声音，你们又用一种无奈的眼神看着我，好像我很不懂事一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4562,
+          "following_count": 141,
+          "like_count": 7464,
+          "listed_count": 14,
+          "tweet_count": 7562
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "2048777199759815127",
+    "created_at": "2026-04-27T14:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048777199759815127"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048777199759815127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为精神问题太差第一天拒绝了上班，在药效里面摔倒了意外请假成功后，苟且偷生了几个星期，努力的沟通了全部失败被当成中邪又开始喂符纸水，算日子，不知道是不是错觉还是幻听，今晚吹头的时候一直有人在骂我砸门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "2048777199759815127",
+        "created_at": "2026-04-27T14:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048777199759815127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048777199759815127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为精神问题太差第一天拒绝了上班，在药效里面摔倒了意外请假成功后，苟且偷生了几个星期，努力的沟通了全部失败被当成中邪又开始喂符纸水，算日子，不知道是不是错觉还是幻听，今晚吹头的时候一直有人在骂我砸门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 30,
+          "like_count": 6396,
+          "listed_count": 5,
+          "media_count": 112,
+          "tweet_count": 8480
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1863958393410724181",
+    "created_at": "2024-12-03T14:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T15:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863960235188392215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769883546225922048",
+          "start": 0,
+          "username": "kawaii33__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863960235188392215",
+    "in_reply_to_user_id": "1769883546225922048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863959430158549437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaii33__ 太贵了啊啊，，，我学校附近只有美宜家，一包百乐30块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1863958393410724181",
+        "created_at": "2024-12-03T14:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863960235188392215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769883546225922048",
+              "start": 0,
+              "username": "kawaii33__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863960235188392215",
+        "in_reply_to_user_id": "1769883546225922048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863959430158549437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii33__ 太贵了啊啊，，，我学校附近只有美宜家，一包百乐30块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769883546225922048",
+        "conversation_id": "1863958393410724181",
+        "created_at": "2024-12-03T14:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T15:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863959430158549437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863959430158549437",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863958393410724181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 宝宝去那种烟酒店问一下有没有爆珠，有些店会卖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4574,
+          "following_count": 143,
+          "like_count": 7331,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 8170
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T00:28:27.000Z",
+        "description": "行吧@xc33__\n🚪52僅聊天\n开小号视奸死全家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "xc33__"
+              }
+            ]
+          }
+        },
+        "id": "1769883546225922048",
+        "location": "右美天堂",
+        "name": "きり",
+        "pinned_tweet_id": "1862562462945468817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792976014521286656/JszGit8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 54,
+          "like_count": 3131,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1074
+        },
+        "username": "kawaii33__",
+        "verified": false
+      }
+    ]
+  }
+}

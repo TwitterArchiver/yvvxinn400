@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1802725323848429733",
+    "created_at": "2024-06-17T15:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T16:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802725323848429733"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1802725323848429733",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请不要听不懂人话，我的生活对你们来说是乐子那就乐子吧，一定要私信不停追问吗？我拒绝了入门的要求因为我不喜欢聊天也没有福利，我提供不了情绪价值所以我拒绝你，不代表你就能在这里一直和我聊天，我讨厌聊天，特别的尤其的讨厌这种追问式的想当然式的聊天，我的拒绝都装看不见那我只会屏蔽你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1802725323848429733",
+        "created_at": "2024-06-17T15:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T16:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802725323848429733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802725323848429733",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请不要听不懂人话，我的生活对你们来说是乐子那就乐子吧，一定要私信不停追问吗？我拒绝了入门的要求因为我不喜欢聊天也没有福利，我提供不了情绪价值所以我拒绝你，不代表你就能在这里一直和我聊天，我讨厌聊天，特别的尤其的讨厌这种追问式的想当然式的聊天，我的拒绝都装看不见那我只会屏蔽你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 142,
+          "like_count": 7372,
+          "listed_count": 13,
+          "tweet_count": 7318
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

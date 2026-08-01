@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "2048790475583431072",
+    "created_at": "2026-04-27T15:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048791175189131473"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048791175189131473",
+    "in_reply_to_user_id": "1674060381432561666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048790475583431072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧我也感谢肠胃没办法消化晚上的食物，我什么都不记得了，醒来看见旁边睡着一个人吓的弹射起来，好吧又活了好难杀，一想到接下来的工作就好痛苦，又开始喂我符纸水了，所有人更相信我中邪了，感谢那天晚上我只是呕吐，发呆和呕吐，弄的很脏，什么的不记得了只想起来自己呕吐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "2048790475583431072",
+        "created_at": "2026-04-27T15:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048791175189131473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048791175189131473",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048790475583431072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧我也感谢肠胃没办法消化晚上的食物，我什么都不记得了，醒来看见旁边睡着一个人吓的弹射起来，好吧又活了好难杀，一想到接下来的工作就好痛苦，又开始喂我符纸水了，所有人更相信我中邪了，感谢那天晚上我只是呕吐，发呆和呕吐，弄的很脏，什么的不记得了只想起来自己呕吐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "2048790475583431072",
+        "created_at": "2026-04-27T15:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048790475583431072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048790475583431072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逃避到第四个星期已经没办法，可是吃到20t的时候又开始痛哭，晚餐的氛围还不错那就再坚持一下工作吧，结果忘记发送给朋友的祝福，很珍惜她，在断片后被她凌晨感到我家，然后爬进窗户看见我在房间里狂乱呕吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 30,
+          "like_count": 6396,
+          "listed_count": 5,
+          "media_count": 112,
+          "tweet_count": 8486
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

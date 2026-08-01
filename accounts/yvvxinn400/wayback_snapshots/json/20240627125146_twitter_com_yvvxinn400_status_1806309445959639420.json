@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1806309445959639420",
+    "created_at": "2024-06-27T12:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T13:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806309445959639420"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1806309445959639420",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小姐姐我小的时候被女大十八变骗了起码十年，一度坚信自己长大了就会变成范冰冰那种大美女，我服了😂😂😂现在这个丑逼是谁?哦原来是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1806309445959639420",
+        "created_at": "2024-06-27T12:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T13:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806309445959639420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806309445959639420",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小姐姐我小的时候被女大十八变骗了起码十年，一度坚信自己长大了就会变成范冰冰那种大美女，我服了😂😂😂现在这个丑逼是谁?哦原来是我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4585,
+          "following_count": 141,
+          "like_count": 7507,
+          "listed_count": 15,
+          "tweet_count": 7662
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

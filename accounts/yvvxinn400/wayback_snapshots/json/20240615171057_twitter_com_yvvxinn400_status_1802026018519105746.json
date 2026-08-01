@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1709429391665844638",
+    "created_at": "2024-06-15T17:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T18:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802026018519105746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1800875043632861184",
+          "start": 0,
+          "username": "huimuli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802026018519105746",
+    "in_reply_to_user_id": "1800875043632861184",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802015881305956779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huimuli 抱歉没有福利也不喜欢聊天，不介意入门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1709429391665844638",
+        "created_at": "2024-06-15T17:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T18:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802026018519105746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1800875043632861184",
+              "start": 0,
+              "username": "huimuli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802026018519105746",
+        "in_reply_to_user_id": "1800875043632861184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802015881305956779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huimuli 抱歉没有福利也不喜欢聊天，不介意入门"
+      },
+      {
+        "attachments": {},
+        "author_id": "1800875043632861184",
+        "conversation_id": "1709429391665844638",
+        "created_at": "2024-06-15T16:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T17:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802015881305956779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802015881305956779",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1709429391665844638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 大赏有福利不(●—●)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4294,
+          "following_count": 140,
+          "like_count": 7448,
+          "listed_count": 13,
+          "tweet_count": 7233
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T13:00:23.000Z",
+        "description": "",
+        "id": "1800875043632861184",
+        "name": "sklng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800877461158445056/waVOQmu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 115,
+          "listed_count": 0,
+          "tweet_count": 68
+        },
+        "username": "huimuli",
+        "verified": false
+      }
+    ]
+  }
+}

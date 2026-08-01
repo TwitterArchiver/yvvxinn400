@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1801645722967884021",
+    "created_at": "2024-06-14T18:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T19:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801688342909882419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576673750870675456",
+          "start": 0,
+          "username": "didi07392064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801688342909882419",
+    "in_reply_to_user_id": "1576673750870675456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801647618369720579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didi07392064 寶寶，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1801645722967884021",
+        "created_at": "2024-06-14T18:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T19:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801688342909882419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576673750870675456",
+              "start": 0,
+              "username": "didi07392064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801688342909882419",
+        "in_reply_to_user_id": "1576673750870675456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801647618369720579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didi07392064 寶寶，"
+      },
+      {
+        "attachments": {},
+        "author_id": "1576673750870675456",
+        "conversation_id": "1801645722967884021",
+        "created_at": "2024-06-14T16:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T17:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801647618369720579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801647618369720579",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801645722967884021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 艺术品，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4294,
+          "following_count": 140,
+          "like_count": 7424,
+          "listed_count": 13,
+          "tweet_count": 7207
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T20:41:36.000Z",
+        "description": "这是我的吐苦水地 \n画画号 @ohtheykillkenny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "ohtheykillkenny"
+              }
+            ]
+          }
+        },
+        "id": "1576673750870675456",
+        "name": "心情是一滩呕吐物",
+        "pinned_tweet_id": "1801617551967064491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801569823027249152/qEjEiZ9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 860,
+          "like_count": 8836,
+          "listed_count": 2,
+          "tweet_count": 4930
+        },
+        "username": "didi07392064",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1812482053637849283",
+    "created_at": "2024-07-14T13:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T14:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1812482053637849283"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1812482053637849283",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我长得真的太丑太丑了身材外貌皮肤一切都太糟糕太恶心了，配上这种恶心的讨人厌的性格，完全知道自己有多恶心，恶心到上厕所也不想上因为能路过镜子，因为上厕所脱裤子能看见我又肥又丑的腿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1812482053637849283",
+        "created_at": "2024-07-14T13:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T14:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812482053637849283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812482053637849283",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我长得真的太丑太丑了身材外貌皮肤一切都太糟糕太恶心了，配上这种恶心的讨人厌的性格，完全知道自己有多恶心，恶心到上厕所也不想上因为能路过镜子，因为上厕所脱裤子能看见我又肥又丑的腿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4636,
+          "following_count": 143,
+          "like_count": 7522,
+          "listed_count": 15,
+          "tweet_count": 7844
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

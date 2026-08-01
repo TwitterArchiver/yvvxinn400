@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1815571341346779585",
+    "created_at": "2024-07-23T08:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T09:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815672334105374826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1585840937242075139",
+          "start": 0,
+          "username": "loveshibainu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815672334105374826",
+    "in_reply_to_user_id": "1585840937242075139",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815571341346779585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveshibainu_ ，救命，我之前三指现在秃成四指，，，手指也是那些人说的天生劳苦命我说够了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1815571341346779585",
+        "created_at": "2024-07-23T08:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T09:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815672334105374826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585840937242075139",
+              "start": 0,
+              "username": "loveshibainu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815672334105374826",
+        "in_reply_to_user_id": "1585840937242075139",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815571341346779585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveshibainu_ ，救命，我之前三指现在秃成四指，，，手指也是那些人说的天生劳苦命我说够了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1585840937242075139",
+        "conversation_id": "1815571341346779585",
+        "created_at": "2024-07-23T02:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T03:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815571341346779585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815571341346779585",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷小红书看到有人说上庭短的人是穷命我感觉天都塌了。。我额头特别短啊只有三指宽。。怪不得我这么穷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4683,
+          "following_count": 140,
+          "like_count": 7507,
+          "listed_count": 15,
+          "tweet_count": 7932
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T03:48:47.000Z",
+        "description": "無言フォロー失礼します",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lia_i_lin?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lia_i_lin?igsh=MWs2ZHN6MmYxOGV5ZA==",
+                "start": 0,
+                "url": "https://t.co/nUbGiXOrVI"
+              }
+            ]
+          }
+        },
+        "id": "1585840937242075139",
+        "location": "柴犬星球",
+        "name": "柴犬共和国主席",
+        "pinned_tweet_id": "1809891229620109443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684176065420476418/gLRw1Phv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 410,
+          "like_count": 30774,
+          "listed_count": 0,
+          "tweet_count": 11113
+        },
+        "url": "https://t.co/nUbGiXOrVI",
+        "username": "loveshibainu_",
+        "verified": false
+      }
+    ]
+  }
+}

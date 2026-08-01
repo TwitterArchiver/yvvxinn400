@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1806203659803598985",
+    "created_at": "2024-06-27T10:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T11:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806271004760781029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1658881840349061120",
+          "start": 0,
+          "username": "CJing3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806271004760781029",
+    "in_reply_to_user_id": "1658881840349061120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806268908703531025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CJing3_ 感觉会拿小号看，发现我们骂她还会笑😂那种骂又咋样反正她保存了一堆照发不误，流量照样有，不知道的人照样不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1806203659803598985",
+        "created_at": "2024-06-27T10:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T11:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806271004760781029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1658881840349061120",
+              "start": 0,
+              "username": "CJing3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806271004760781029",
+        "in_reply_to_user_id": "1658881840349061120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806268908703531025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CJing3_ 感觉会拿小号看，发现我们骂她还会笑😂那种骂又咋样反正她保存了一堆照发不误，流量照样有，不知道的人照样不知道"
+      },
+      {
+        "attachments": {},
+        "author_id": "1658881840349061120",
+        "conversation_id": "1806203659803598985",
+        "created_at": "2024-06-27T10:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T11:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806268908703531025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806268908703531025",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806268620089217063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 卧槽尼玛跟他妈蟑螂一样我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4589,
+          "following_count": 141,
+          "like_count": 7504,
+          "listed_count": 15,
+          "tweet_count": 7653
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "@CJing4_ \n轉載禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "CJing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "location": "给钱👁️接傷ロ的圖案定制",
+        "name": "楚鯨",
+        "pinned_tweet_id": "1804583051542057103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805152015389282304/LbdZkEpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5270,
+          "following_count": 555,
+          "like_count": 3708,
+          "listed_count": 6,
+          "tweet_count": 382
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

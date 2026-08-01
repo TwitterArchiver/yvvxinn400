@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1801539438838747448",
+    "created_at": "2024-06-14T10:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T11:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801567415622635616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1334142628955385866",
+          "start": 0,
+          "username": "Valentine_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801567415622635616",
+    "in_reply_to_user_id": "1334142628955385866",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801541512611643615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Valentine_2024 以前开水烫的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1801539438838747448",
+        "created_at": "2024-06-14T10:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T11:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801567415622635616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1334142628955385866",
+              "start": 0,
+              "username": "Valentine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801567415622635616",
+        "in_reply_to_user_id": "1334142628955385866",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801541512611643615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Valentine_2024 以前开水烫的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1334142628955385866",
+        "conversation_id": "1801539438838747448",
+        "created_at": "2024-06-14T09:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T10:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801541512611643615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801541512611643615",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801539438838747448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 下面那一段是咋搞的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4287,
+          "following_count": 140,
+          "like_count": 7408,
+          "listed_count": 13,
+          "tweet_count": 7206
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-02T14:29:32.000Z",
+        "description": "追涨卖跌",
+        "id": "1334142628955385866",
+        "location": "Ukraine",
+        "name": "我有罪",
+        "pinned_tweet_id": "1782387895946363350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762207863282278400/MBB6384T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 1182,
+          "like_count": 78021,
+          "listed_count": 1,
+          "tweet_count": 8996
+        },
+        "username": "Valentine_2024",
+        "verified": false
+      }
+    ]
+  }
+}

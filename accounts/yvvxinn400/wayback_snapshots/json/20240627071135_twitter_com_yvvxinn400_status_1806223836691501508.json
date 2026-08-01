@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1806203659803598985",
+    "created_at": "2024-06-27T07:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T08:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806223836691501508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1658881840349061120",
+          "start": 0,
+          "username": "CJing3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806223836691501508",
+    "in_reply_to_user_id": "1658881840349061120",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806223599562592403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CJing3_ 挖槽屌毛，那段时间我还没打来着，挖槽屌毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1806203659803598985",
+        "created_at": "2024-06-27T07:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T08:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806223836691501508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1658881840349061120",
+              "start": 0,
+              "username": "CJing3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806223836691501508",
+        "in_reply_to_user_id": "1658881840349061120",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806223599562592403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CJing3_ 挖槽屌毛，那段时间我还没打来着，挖槽屌毛"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806223396365348864",
+            "3_1806223514992852992"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1806203659803598985",
+        "created_at": "2024-06-27T07:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T08:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806223599562592403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tP4qa6i39K",
+              "end": 48,
+              "expanded_url": "https://twitter.com/CJing3_/status/1806223599562592403/photo/1",
+              "media_key": "3_1806223396365348864",
+              "start": 25,
+              "url": "https://t.co/tP4qa6i39K"
+            },
+            {
+              "display_url": "pic.twitter.com/tP4qa6i39K",
+              "end": 48,
+              "expanded_url": "https://twitter.com/CJing3_/status/1806223599562592403/photo/1",
+              "media_key": "3_1806223514992852992",
+              "start": 25,
+              "url": "https://t.co/tP4qa6i39K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806223599562592403",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806211937828495733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 宝宝下次视频也得打水印了 https://t.co/tP4qa6i39K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4590,
+          "following_count": 141,
+          "like_count": 7502,
+          "listed_count": 15,
+          "tweet_count": 7645
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "@CJing4_ \n轉載禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "CJing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "location": "给钱👁️接傷ロ的圖案定制",
+        "name": "楚鯨",
+        "pinned_tweet_id": "1804583051542057103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805152015389282304/LbdZkEpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5286,
+          "following_count": 555,
+          "like_count": 3698,
+          "listed_count": 6,
+          "tweet_count": 379
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

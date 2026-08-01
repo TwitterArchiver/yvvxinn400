@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1802261323759423892",
+    "created_at": "2024-06-16T08:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T09:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802262537708429617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1419743405697949696",
+          "start": 0,
+          "username": "Lizeroxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802262537708429617",
+    "in_reply_to_user_id": "1419743405697949696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802261557956804810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizeroxy 我也会出事，我成年了而且没有工作，给别人避税的话我的账户里是会有工资记录的，就是说你已经在上班了，那我以后大学毕业了应届生的身份就没了，而且这种事就是违法的啊，，我爸妈还不停骂我说我没人情味说我不懂什么的，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1802261323759423892",
+        "created_at": "2024-06-16T08:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T09:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802262537708429617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1419743405697949696",
+              "start": 0,
+              "username": "Lizeroxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802262537708429617",
+        "in_reply_to_user_id": "1419743405697949696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802261557956804810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizeroxy 我也会出事，我成年了而且没有工作，给别人避税的话我的账户里是会有工资记录的，就是说你已经在上班了，那我以后大学毕业了应届生的身份就没了，而且这种事就是违法的啊，，我爸妈还不停骂我说我没人情味说我不懂什么的，"
+      },
+      {
+        "attachments": {},
+        "author_id": "1419743405697949696",
+        "conversation_id": "1802261323759423892",
+        "created_at": "2024-06-16T08:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T09:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802261557956804810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802261557956804810",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802261323759423892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 ？wk 那到时候出了事不是要大人承担责任了咩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4297,
+          "following_count": 141,
+          "like_count": 7359,
+          "listed_count": 13,
+          "tweet_count": 7252
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T19:36:40.000Z",
+        "description": "04|♂（M NO F） 社恐，不善言辞与社交。我是个烂人，如果打扰了大家，或者惹各位心烦，我很抱歉。",
+        "id": "1419743405697949696",
+        "location": "空白小屋",
+        "name": "仟流",
+        "pinned_tweet_id": "1725185829155537239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768868990288629760/iAwlH211_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 1505,
+          "like_count": 79678,
+          "listed_count": 0,
+          "tweet_count": 5413
+        },
+        "username": "Lizeroxy",
+        "verified": false
+      }
+    ]
+  }
+}

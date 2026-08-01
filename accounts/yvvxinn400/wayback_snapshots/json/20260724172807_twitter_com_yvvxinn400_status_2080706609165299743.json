@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "2080706609165299743",
+    "created_at": "2026-07-24T17:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080706609165299743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2080578355217469440",
+          "start": 3,
+          "username": "azero412420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080706609165299743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080587098898502036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azero412420: 我是煜行 可以叫我阿零（. ◜ ω ◝. ）\n\n目前放弃治疗疾病但在努力治疗失眠中，因为疾病导致活动能力异常无法工作，目前辞职欠债零收入中\n\n🚪28/52/128\n分别为闲聊/图片/视频，提前产出与未发布内容但不会出现🔞内容致歉\n\n无论多少赞赏…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080587090212106240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-672RbMAA1yXn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2080587090245677056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-672ZbcAAGaAI.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1568,
+        "media_key": "3_2080587090254057472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-672bbUAAlbE1.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "2080706609165299743",
+        "created_at": "2026-07-24T17:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080706609165299743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2080578355217469440",
+              "start": 3,
+              "username": "azero412420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080706609165299743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080587098898502036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azero412420: 我是煜行 可以叫我阿零（. ◜ ω ◝. ）\n\n目前放弃治疗疾病但在努力治疗失眠中，因为疾病导致活动能力异常无法工作，目前辞职欠债零收入中\n\n🚪28/52/128\n分别为闲聊/图片/视频，提前产出与未发布内容但不会出现🔞内容致歉\n\n无论多少赞赏…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080587090212106240",
+            "3_2080587090245677056",
+            "3_2080587090254057472"
+          ]
+        },
+        "author_id": "2080578355217469440",
+        "conversation_id": "2080587098898502036",
+        "created_at": "2026-07-24T09:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080587098898502036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Ejn4ESzeV",
+              "end": 158,
+              "expanded_url": "https://x.com/azero412420/status/2080587098898502036/photo/1",
+              "media_key": "3_2080587090212106240",
+              "start": 135,
+              "url": "https://t.co/6Ejn4ESzeV"
+            },
+            {
+              "display_url": "pic.x.com/6Ejn4ESzeV",
+              "end": 158,
+              "expanded_url": "https://x.com/azero412420/status/2080587098898502036/photo/1",
+              "media_key": "3_2080587090245677056",
+              "start": 135,
+              "url": "https://t.co/6Ejn4ESzeV"
+            },
+            {
+              "display_url": "pic.x.com/6Ejn4ESzeV",
+              "end": 158,
+              "expanded_url": "https://x.com/azero412420/status/2080587098898502036/photo/1",
+              "media_key": "3_2080587090254057472",
+              "start": 135,
+              "url": "https://t.co/6Ejn4ESzeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080587098898502036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 322,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是煜行 可以叫我阿零（. ◜ ω ◝. ）\n\n目前放弃治疗疾病但在努力治疗失眠中，因为疾病导致活动能力异常无法工作，目前辞职欠债零收入中\n\n🚪28/52/128\n分别为闲聊/图片/视频，提前产出与未发布内容但不会出现🔞内容致歉\n\n无论多少赞赏我都会非常感激🥹谢谢大家 https://t.co/6Ejn4ESzeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4190,
+          "following_count": 34,
+          "like_count": 6319,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 8609
+        },
+        "url": "",
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T09:00:13.000Z",
+        "description": "28/52/128\n闲聊/图片/视频\n\n双相ed放弃治疗中，喜欢漂亮的伤口和身体线条",
+        "id": "2080578355217469440",
+        "name": "azero",
+        "pinned_tweet_id": "2080587098898502036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080579685210361856/chLG5_Sl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "azero412420",
+        "verified": false
+      }
+    ]
+  }
+}

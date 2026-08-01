@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1806237037483511888",
+    "created_at": "2024-06-27T12:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T13:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806298016909062525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696427746145214464",
+          "start": 0,
+          "username": "PuppystarUwU_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806298016909062525",
+    "in_reply_to_user_id": "1696427746145214464",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806237037483511888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PuppystarUwU_ 这猫谁，是不是拿来当我代餐的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1806237037483511888",
+        "created_at": "2024-06-27T12:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T13:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806298016909062525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696427746145214464",
+              "start": 0,
+              "username": "PuppystarUwU_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806298016909062525",
+        "in_reply_to_user_id": "1696427746145214464",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806237037483511888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PuppystarUwU_ 这猫谁，是不是拿来当我代餐的"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806237025294835712",
+            "3_1806237025294757888"
+          ]
+        },
+        "author_id": "1696427746145214464",
+        "conversation_id": "1806237037483511888",
+        "created_at": "2024-06-27T08:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T09:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806237037483511888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/wE866dm4Sa",
+              "end": 23,
+              "expanded_url": "https://twitter.com/PuppystarUwU_/status/1806237037483511888/photo/1",
+              "media_key": "3_1806237025294835712",
+              "start": 0,
+              "url": "https://t.co/wE866dm4Sa"
+            },
+            {
+              "display_url": "pic.twitter.com/wE866dm4Sa",
+              "end": 23,
+              "expanded_url": "https://twitter.com/PuppystarUwU_/status/1806237037483511888/photo/1",
+              "media_key": "3_1806237025294757888",
+              "start": 0,
+              "url": "https://t.co/wE866dm4Sa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806237037483511888",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wE866dm4Sa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4579,
+          "following_count": 141,
+          "like_count": 7505,
+          "listed_count": 15,
+          "tweet_count": 7659
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T07:41:22.000Z",
+        "description": "雀",
+        "id": "1696427746145214464",
+        "location": "冬",
+        "name": "月",
+        "pinned_tweet_id": "1791848998183240044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799366851400790016/RKk7k4xB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 44,
+          "like_count": 2365,
+          "listed_count": 6,
+          "tweet_count": 949
+        },
+        "username": "PuppystarUwU_",
+        "verified": false
+      }
+    ]
+  }
+}

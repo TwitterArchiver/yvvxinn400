@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1805650023587180897",
+    "created_at": "2024-06-25T17:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T18:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805650023587180897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aphrodite_mis/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Aphrodite_mis/status/1805647700291207646",
+          "start": 6,
+          "url": "https://t.co/tFYIBzLIZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805650023587180897",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805647700291207646",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都给我打钱 https://t.co/tFYIBzLIZZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1805650023587180897",
+        "created_at": "2024-06-25T17:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T18:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805650023587180897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aphrodite_mis/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Aphrodite_mis/status/1805647700291207646",
+              "start": 6,
+              "url": "https://t.co/tFYIBzLIZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805650023587180897",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805647700291207646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都给我打钱 https://t.co/tFYIBzLIZZ"
+      },
+      {
+        "attachments": {},
+        "author_id": "1627413864756424704",
+        "conversation_id": "1805647700291207646",
+        "created_at": "2024-06-25T17:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T18:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805647700291207646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805647700291207646",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都给我打钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4578,
+          "following_count": 141,
+          "like_count": 7471,
+          "listed_count": 15,
+          "tweet_count": 7585
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T21:04:56.000Z",
+        "description": "大号@Artemis_moon_12 oo @PuppystarUwU_ 🚪520 爱发电投喂地址https://t.co/oPHrSvSLYE 别被爱了 我值得被操",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Artemis_moon_12"
+              },
+              {
+                "end": 36,
+                "start": 22,
+                "username": "PuppystarUwU_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "afdian.net/a/Aphrodite_mo…",
+                "end": 72,
+                "expanded_url": "https://afdian.net/a/Aphrodite_moon_12",
+                "start": 49,
+                "url": "https://t.co/oPHrSvSLYE"
+              }
+            ]
+          }
+        },
+        "id": "1627413864756424704",
+        "name": "阿尔忒弥斯（已切子宫）",
+        "pinned_tweet_id": "1804834796763492480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799377874354614273/F7n4KDZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14759,
+          "following_count": 853,
+          "like_count": 135245,
+          "listed_count": 31,
+          "tweet_count": 37667
+        },
+        "username": "Aphrodite_mis",
+        "verified": false
+      }
+    ]
+  }
+}

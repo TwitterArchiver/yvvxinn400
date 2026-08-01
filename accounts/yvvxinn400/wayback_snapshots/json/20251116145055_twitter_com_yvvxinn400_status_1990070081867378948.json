@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990070078763941888"
+      ]
+    },
+    "author_id": "1674060381432561666",
+    "conversation_id": "1990070081867378948",
+    "created_at": "2025-11-16T14:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T15:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990070081867378948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8P9IUqtVOt",
+          "end": 23,
+          "expanded_url": "https://x.com/yvvxinn400/status/1990070081867378948/photo/1",
+          "media_key": "3_1990070078763941888",
+          "start": 0,
+          "url": "https://t.co/8P9IUqtVOt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990070081867378948",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/8P9IUqtVOt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990070078763941888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54mMVrbwAANSQJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990070078763941888"
+          ]
+        },
+        "author_id": "1674060381432561666",
+        "conversation_id": "1990070081867378948",
+        "created_at": "2025-11-16T14:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990070081867378948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8P9IUqtVOt",
+              "end": 23,
+              "expanded_url": "https://x.com/yvvxinn400/status/1990070081867378948/photo/1",
+              "media_key": "3_1990070078763941888",
+              "start": 0,
+              "url": "https://t.co/8P9IUqtVOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990070081867378948",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8P9IUqtVOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4423,
+          "following_count": 32,
+          "like_count": 6630,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 8444
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}

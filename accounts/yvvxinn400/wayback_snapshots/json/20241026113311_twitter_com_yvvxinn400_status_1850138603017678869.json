@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1850031285215125721",
+    "created_at": "2024-10-26T11:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T12:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850138603017678869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1637637048726331393",
+          "start": 0,
+          "username": "xibaozipup46479"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850138603017678869",
+    "in_reply_to_user_id": "1637637048726331393",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850105378425708612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xibaozipup46479 忘记了!完全无记忆哈哈但是记得被坑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1850031285215125721",
+        "created_at": "2024-10-26T11:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T12:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850138603017678869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1637637048726331393",
+              "start": 0,
+              "username": "xibaozipup46479"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850138603017678869",
+        "in_reply_to_user_id": "1637637048726331393",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850105378425708612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xibaozipup46479 忘记了!完全无记忆哈哈但是记得被坑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637637048726331393",
+        "conversation_id": "1850031285215125721",
+        "created_at": "2024-10-26T09:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T10:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850105378425708612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850105378425708612",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850031285215125721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 多少钱包 好久没抽过了刚开始抽的就是十二钗 老是把名字记成十三钗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4515,
+          "following_count": 143,
+          "like_count": 7284,
+          "listed_count": 4,
+          "tweet_count": 8020
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T02:08:09.000Z",
+        "description": "#Sick Boi#包密",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "Sick"
+              }
+            ]
+          }
+        },
+        "id": "1637637048726331393",
+        "location": "Earth",
+        "name": "海貓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720546434448306176/lVV6ih08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 84,
+          "like_count": 705,
+          "listed_count": 0,
+          "tweet_count": 433
+        },
+        "username": "xibaozipup46479",
+        "verified": false
+      }
+    ]
+  }
+}

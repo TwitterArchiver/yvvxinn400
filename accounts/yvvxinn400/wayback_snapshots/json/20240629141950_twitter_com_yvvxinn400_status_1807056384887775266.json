@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1806724701659521070",
+    "created_at": "2024-06-29T14:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T15:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807056384887775266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1793853330520969216",
+          "start": 0,
+          "username": "mskcnmb8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807056384887775266",
+    "in_reply_to_user_id": "1793853330520969216",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806725089444192572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mskcnmb8964 寶寶，，但是确实，现在想想确实我才是原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1806724701659521070",
+        "created_at": "2024-06-29T14:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T15:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807056384887775266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1793853330520969216",
+              "start": 0,
+              "username": "mskcnmb8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807056384887775266",
+        "in_reply_to_user_id": "1793853330520969216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806725089444192572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mskcnmb8964 寶寶，，但是确实，现在想想确实我才是原因"
+      },
+      {
+        "attachments": {},
+        "author_id": "1793853330520969216",
+        "conversation_id": "1806724701659521070",
+        "created_at": "2024-06-28T16:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T17:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806725089444192572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674060381432561666",
+              "start": 0,
+              "username": "yvvxinn400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806725089444192572",
+        "in_reply_to_user_id": "1674060381432561666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806724701659521070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvvxinn400 不是你的错...这都能怪到你他们真的......没话讲了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4647,
+          "following_count": 144,
+          "like_count": 7540,
+          "listed_count": 15,
+          "tweet_count": 7704
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T03:55:44.000Z",
+        "description": "小号又被封了已老实求放过  妈妈爸爸们求你们助力我找回前世互关\n逃生仓 @8964zhajipai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "8964zhajipai"
+              }
+            ]
+          }
+        },
+        "id": "1793853330520969216",
+        "location": "距你0.8km",
+        "name": "像素炸鸡排3.0",
+        "pinned_tweet_id": "1802947736045867440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801023607134687232/h4vuHw72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 67,
+          "like_count": 431,
+          "listed_count": 1,
+          "tweet_count": 349
+        },
+        "username": "mskcnmb8964",
+        "verified": false
+      }
+    ]
+  }
+}

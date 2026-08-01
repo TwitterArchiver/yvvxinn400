@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1804410863883030606",
+    "created_at": "2024-06-22T12:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T13:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804494902954426633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696427746145214464",
+          "start": 0,
+          "username": "PuppystarUwU_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804494902954426633",
+    "in_reply_to_user_id": "1696427746145214464",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804410863883030606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PuppystarUwU_ 兄弟好深情，集美好动情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1804410863883030606",
+        "created_at": "2024-06-22T12:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T13:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804494902954426633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696427746145214464",
+              "start": 0,
+              "username": "PuppystarUwU_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804494902954426633",
+        "in_reply_to_user_id": "1696427746145214464",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804410863883030606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PuppystarUwU_ 兄弟好深情，集美好动情"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804410851014905856"
+          ]
+        },
+        "author_id": "1696427746145214464",
+        "conversation_id": "1804410863883030606",
+        "created_at": "2024-06-22T07:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T08:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804410863883030606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hZUdOcWtU7",
+              "end": 51,
+              "expanded_url": "https://twitter.com/PuppystarUwU_/status/1804410863883030606/photo/1",
+              "media_key": "3_1804410851014905856",
+              "start": 28,
+              "url": "https://t.co/hZUdOcWtU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804410863883030606",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2169,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的会一直看着你👁️👁️…我会偷偷看你我一直看你👁️ https://t.co/hZUdOcWtU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 140,
+          "like_count": 7442,
+          "listed_count": 13,
+          "tweet_count": 7493
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-29T07:41:22.000Z",
+        "description": "雀",
+        "id": "1696427746145214464",
+        "location": "冬",
+        "name": "月",
+        "pinned_tweet_id": "1791848998183240044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799366851400790016/RKk7k4xB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 42,
+          "like_count": 2179,
+          "listed_count": 6,
+          "tweet_count": 870
+        },
+        "username": "PuppystarUwU_",
+        "verified": false
+      }
+    ]
+  }
+}

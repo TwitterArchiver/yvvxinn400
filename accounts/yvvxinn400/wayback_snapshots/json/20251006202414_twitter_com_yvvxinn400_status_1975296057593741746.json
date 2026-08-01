@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "1975222311570784681",
+    "created_at": "2025-10-06T20:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T21:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975296057593741746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817120099528265728",
+          "start": 0,
+          "username": "hX61zi4Jk332357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975296057593741746",
+    "in_reply_to_user_id": "1817120099528265728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975222311570784681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hX61zi4Jk332357 背着我喝啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "1975222311570784681",
+        "created_at": "2025-10-06T20:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T21:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975296057593741746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975296057593741746",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975222311570784681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hX61zi4Jk332357 背着我喝啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817120099528265728",
+        "conversation_id": "1975222311570784681",
+        "created_at": "2025-10-06T15:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975222311570784681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975222311570784681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和小鼠穿梭在几条街的便利店…每遇到一家就进去购入一人一瓶酒看谁先喝醉…从唱喜欢的乐队的歌到高诵各自喜欢的话剧台词，从加油站便利店走到狗公园便利店…在路灯下三个人笨拙地跳爱乐之城，喝醉了在谈各自爱的人…好奇妙的生活竟然有两天…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "description": "来自煜星的阿零   🚪58/128",
+        "id": "1674060381432561666",
+        "location": "你家祖坟宅基地里",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4453,
+          "following_count": 32,
+          "like_count": 6661,
+          "listed_count": 6,
+          "media_count": 110,
+          "tweet_count": 8357
+        },
+        "username": "yvvxinn400",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "回憶錄@Yun__V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Yun__V"
+              }
+            ]
+          }
+        },
+        "id": "1817120099528265728",
+        "location": "游乐园",
+        "name": "善良脚",
+        "pinned_tweet_id": "1974749808499057030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948970285824442373/PkNaZGQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7967,
+          "following_count": 70,
+          "like_count": 1660,
+          "listed_count": 20,
+          "media_count": 357,
+          "tweet_count": 1837
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}
