@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1674060381432561666",
+    "conversation_id": "2085602572937945305",
+    "created_at": "2026-08-07T05:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085602572937945305"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085602572937945305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对，吃一口饭都是负罪感，只有站起来的低血压才让我安心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674060381432561666",
+        "conversation_id": "2085602572937945305",
+        "created_at": "2026-08-07T05:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085602572937945305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085602572937945305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对，吃一口饭都是负罪感，只有站起来的低血压才让我安心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-06-28T14:21:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "来自煜星的阿零   🚪28/52/128\n\n小号 @Yvxin412  \n这个号收不到私信也没办法回复抱歉\n可以去小号找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Yvxin412"
+              }
+            ]
+          }
+        },
+        "id": "1674060381432561666",
+        "location": "東京",
+        "name": "你谁",
+        "pinned_tweet_id": "1709429391665844638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4196,
+          "following_count": 34,
+          "like_count": 6332,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 8619
+        },
+        "url": "",
+        "username": "yvvxinn400",
+        "verified": false
+      }
+    ]
+  }
+}
