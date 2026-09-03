@@ -1,11 +1,20 @@
 {
   "name": "你谁",
   "username": "@yvvxinn400",
-  "bio": "来自煜星的阿零   🚪58/128",
-  "location": "你家祖坟宅基地里",
+  "bio": "来自煜星的阿零   🚪28/52/128\n\n小号 @Yvxin412  \n这个号收不到私信也没办法回复抱歉\n可以去小号找我",
+  "location": "東京",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "1709429391665844638",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1726120579307360256/PRHUI6Iq_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 34,
+        "start": 25,
+        "username": "Yvxin412"
+      }
+    ]
+  }
 }
